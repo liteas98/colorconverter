@@ -41,7 +41,7 @@ If you discover any security related issues, please email lost.mostafa92@gmail.c
 
 ## Credits
 
-- [Jane Doe](https://github.com/liteas98)
+- [Mostafa Eid](https://github.com/liteas98)
 - [All Contributors](../../contributors)
 
 ## License
